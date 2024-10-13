@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parks>
+   <Park type="recreational">
+      <Owner>Federal Government</Owner>
+      <Name>Grand Canyon</Name>
+      <Reservation>
+         <Address>20 South Entrance Road Grand Canyon, AZ 86023
+         </Address>  
+         <Url>https://www.nps.gov/grca/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Arizona</NeighboringStates>
+      <NeighboringStates>Utah</NeighboringStates>
+      <NeighboringStates>Nevada</NeighboringStates>
+      <Establishedn Founder="Roosevelt">1919</Establishedn>
+   </Park>
+   <Park type="recreational">
+      <Owner>Federal Government</Owner>
+      <Name>Saguaro</Name>
+      <Reservation>
+         <Address>3693 S Old Spanish Trail Tucson, AZ 85730</Address>  
+         <Url>https://www.nps.gov/sagu/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Arizona</NeighboringStates>
+      <Establishedn>1994</Establishedn>
+   </Park>
+   <Park type="recreational">
+      <Owner>Federal Government</Owner>
+      <Name>Yellowstone</Name>
+      <Reservation>
+         <Address>2 Officers Row Yellowstone National Park Headquarters Yellowstone National Park, WY 82190</Address>  
+         <Url>https://www.nps.gov/yell/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Wyoming</NeighboringStates>
+      <NeighboringStates>Montana</NeighboringStates>
+      <NeighboringStates>Idaho</NeighboringStates>
+      <Establishedn Founder="Ulysses S. Grant">1872</Establishedn>
+   </Park>
+   <Park type="recreational">
+      <Owner>Federal Government</Owner>
+      <Name>Zion</Name>
+      <Reservation>
+         <Address>Zion National Park 1 Zion Park Blvd. Springdale, UT 84767</Address>  
+         <Url>https://www.nps.gov/zion/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Utah</NeighboringStates>
+      <Establishedn Founder="Alexander McKenzie">1919</Establishedn>
+   </Park>
+   <Park type="nature preserve">
+      <Owner>Federal Government</Owner>
+      <Name>Acadia</Name>
+      <Reservation>
+         <Address>Acadia National Park, Bar Harbor, ME 04609</Address>  
+         <Url>https://www.nps.gov/acad/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Maine</NeighboringStates>
+      <Establishedn Founder="George B. Dorr">1919</Establishedn>
+   </Park>
+   <Park type="recreation">
+      <Owner>Federal Government</Owner>
+      <Name>Yosemite</Name>
+      <Reservation>
+         <Address>Tioga Rd Hwy 120 &amp; Hwy 140 Yosemite National Park, CA 95389</Address>  
+         <Url>https://www.nps.gov/yose/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>California</NeighboringStates>
+      <Establishedn Founder="Abraham Lincoln">1890</Establishedn>
+   </Park>
+   <Park type="nature reserve">
+      <Owner>Federal Government</Owner>
+      <Name>Everglades </Name>
+      <Reservation>
+         <Address>40001 State Road 9336, Homestead, FL 33034</Address>  
+         <Url>https://www.nps.gov/ever/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Florida</NeighboringStates>
+      <Establishedn >1947</Establishedn>
+   </Park>
+   <Park type="recreation">
+      <Owner>Federal Government</Owner>
+      <Name>Great Smoky Mountains</Name>
+      <Reservation>
+         <Address>107 Park Headquarters Road Gatlinburg, TN 37738</Address>  
+         <Url>https://www.nps.gov/grsm/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Tennessee</NeighboringStates>
+      <NeighboringStates>North Carolina</NeighboringStates>
+      <Establishedn>1934</Establishedn>
+   </Park>
+   <Park type="recreation">
+      <Owner>Federal Government</Owner>
+      <Name>Arches </Name>
+      <Reservation>
+         <Address>Arches National Park, Moab, UT 84532</Address>  
+         <Url>https://www.nps.gov/arch/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Utah</NeighboringStates>
+      <Establishedn>1971</Establishedn>
+   </Park>
+   <Park type="recreation">
+      <Owner>Federal Government</Owner>
+      <Name>Mount Rainier</Name>
+      <Reservation>
+         <Address>39000 State Route 706 E Ashford, WA 98304</Address>  
+         <Url>https://www.nps.gov/mora/index.htm</Url>
+      </Reservation>
+      <NeighboringStates>Washington</NeighboringStates>
+      <Establishedn>1899</Establishedn>
+   </Park>
+	<Park type="recreation">
+		<Owner>Bob</Owner>
+		<Name>the park </Name>
+		<Reservation>
+			<Address>2135 Broadway Rd</Address>
+			<Url>http://park.com</Url>
+		</Reservation>
+		<NeighboringStates>Arizona</NeighboringStates>
+		<NeighboringStates>California</NeighboringStates>
+		<NeighboringStates>Utah</NeighboringStates>
+		<Establishedn Founder="Frederick">1987</Establishedn>
+	</Park>
+</Parks>
